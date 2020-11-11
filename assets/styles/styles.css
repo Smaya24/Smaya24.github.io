@@ -120,3 +120,14 @@ ul {
 <span class="maya-tooltip" data-toggle="tooltip" data-placement="top" title="Head of Growth"> TEXT </span>
 
 */
+
+
+body {
+  font-family: 'Roboto', sans-serif;
+
+}
+
+.caption {
+  font-style: italic;
+  font-size:0.8em;
+}
