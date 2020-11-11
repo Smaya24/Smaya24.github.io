@@ -1,0 +1,122 @@
+.portrait {
+  transform: scaleX(-1);
+  max-height:600px;
+}
+
+.thanks {
+  font-family: "Roboto";
+  font-size: 20px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  line-height: 26.4px;
+
+}
+
+.remerciements {
+  font-family: "Roboto";
+  font-size: 18px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  line-height: 26.4px;
+
+
+}
+.enaco-btn
+{
+  background-color:#B22222;
+  font color: #000000;
+  border: 0px;
+  border-radius:1px;
+
+}
+
+.enaco-btn:hover
+{
+  background-color:#000;
+  font color: #FFF;
+  border: 0px;
+  border-radius:1px;
+
+}
+.card-header{
+  background-color: #B0C4DE;
+
+}
+.btn{
+  font-family: "Roboto";
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+color:#000000;
+}
+
+.card-body{
+  font-family: "Roboto";
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+}
+
+.rapport{
+  background-color:#B0C4DE;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.titre{
+font-size: 24px;
+font-weight: bolder;
+}
+
+.stitre{
+font-size: 20px;
+font-weight: bold;
+}
+
+.stitre-2{
+  font-size: 16px;
+font-weight: bold;
+}
+
+.stitre-3{
+font-size: 14px;
+font-style: italic;
+font-weight: bold;
+}
+
+.sommaire{
+
+  background-color:#FFFF;
+  margin-left: 300px;
+  margin-right: 300px;
+  }
+
+
+.logo-sf {
+  max-height:44px;
+}
+
+ul {
+  list-style-type: none;
+  text-indent:10px;
+}
+
+.maya-tooltip {
+  text-decoration: underline;
+}
+
+.card-header {
+  /* CHANGE LA COULEUR DU TITRE ICI */
+}
+
+
+
+/* TOOLTIP STRUCTURE
+
+<span class="maya-tooltip" data-toggle="tooltip" data-placement="top" title="Head of Growth"> TEXT </span>
+
+*/
